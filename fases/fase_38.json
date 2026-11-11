@@ -1,0 +1,472 @@
+{
+ "fase": 38,
+ "titulo": "Bom de Boca",
+ "dimensoes": {
+  "linhas": 11,
+  "colunas": 10
+ },
+ "elementos": [
+  {
+   "linha": 1,
+   "coluna": 4,
+   "tipo": "dica",
+   "texto_dica": "Longo período histórico",
+   "seta": "vertical"
+  },
+  {
+   "linha": 1,
+   "coluna": 6,
+   "tipo": "dica",
+   "texto_dica": "Maior floresta tropical do mundo",
+   "seta": "vertical"
+  },
+  {
+   "linha": 1,
+   "coluna": 8,
+   "tipo": "dica",
+   "texto_dica": "Réptil de casco duro e lento",
+   "seta": "vertical"
+  },
+  {
+   "linha": 2,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Animal de tromba e presas/Ferramenta que desgasta metais"
+  },
+  {
+   "linha": 2,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 2,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 2,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 2,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "F"
+  },
+  {
+   "linha": 2,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 2,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "N"
+  },
+  {
+   "linha": 2,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "T"
+  },
+  {
+   "linha": 2,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 3,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 3,
+   "coluna": 3,
+   "tipo": "dica",
+   "texto_dica": "Constrói paredes",
+   "seta": "vertical"
+  },
+  {
+   "linha": 3,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 3,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "M"
+  },
+  {
+   "linha": 3,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 4,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 4,
+   "coluna": 2,
+   "tipo": "dica",
+   "texto_dica": "Conjunto de letras com significado",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 4,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "P"
+  },
+  {
+   "linha": 4,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 4,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 4,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 4,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "V"
+  },
+  {
+   "linha": 4,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 4,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 4,
+   "coluna": 10,
+   "tipo": "dica",
+   "texto_dica": "Marca as horas",
+   "seta": "vertical"
+  },
+  {
+   "linha": 5,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "M"
+  },
+  {
+   "linha": 5,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 5,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "Z"
+  },
+  {
+   "linha": 5,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "T"
+  },
+  {
+   "linha": 5,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 6,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 6,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "D"
+  },
+  {
+   "linha": 6,
+   "coluna": 4,
+   "tipo": "dica",
+   "texto_dica": "Redonda, serve para jogar",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 6,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "B"
+  },
+  {
+   "linha": 6,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 6,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 6,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 6,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 7,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Raiva intensa",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 7,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 7,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 7,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 7,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "N"
+  },
+  {
+   "linha": 7,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 7,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 8,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 8,
+   "coluna": 4,
+   "tipo": "dica",
+   "texto_dica": "Sessenta segundos",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 8,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "M"
+  },
+  {
+   "linha": 8,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 8,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "N"
+  },
+  {
+   "linha": 8,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "U"
+  },
+  {
+   "linha": 8,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "T"
+  },
+  {
+   "linha": 8,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 9,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Irmão do pai ou da mãe",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 9,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "T"
+  },
+  {
+   "linha": 9,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 9,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 9,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 9,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "G"
+  },
+  {
+   "linha": 9,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "G"
+  },
+  {
+   "linha": 10,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 10,
+   "coluna": 6,
+   "tipo": "dica",
+   "texto_dica": "Carro de aluguel com taxímetro",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 10,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "T"
+  },
+  {
+   "linha": 10,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 10,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "X"
+  },
+  {
+   "linha": 10,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 11,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Período escuro do dia",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 11,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "N"
+  },
+  {
+   "linha": 11,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 11,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 11,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "T"
+  },
+  {
+   "linha": 11,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 11,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "O"
+  }
+ ]
+}

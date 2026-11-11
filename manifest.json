@@ -1,0 +1,26 @@
+{
+  "name": "Diretas - Palavras Cruzadas",
+  "short_name": "Diretas",
+  "description": "Palavras cruzadas diretas com dezenas de fases",
+  "start_url": "index.php",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#12121a",
+  "theme_color": "#14141c",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

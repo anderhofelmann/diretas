@@ -1,0 +1,437 @@
+{
+ "fase": 30,
+ "titulo": "Muito Barulho",
+ "dimensoes": {
+  "linhas": 10,
+  "colunas": 10
+ },
+ "elementos": [
+  {
+   "linha": 1,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Anel grande",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 1,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 1,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 1,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 1,
+   "coluna": 5,
+   "tipo": "dica",
+   "texto_dica": "Vende remédios",
+   "seta": "vertical"
+  },
+  {
+   "linha": 1,
+   "coluna": 10,
+   "tipo": "dica",
+   "texto_dica": "Inseto de asas coloridas",
+   "seta": "vertical"
+  },
+  {
+   "linha": 2,
+   "coluna": 3,
+   "tipo": "dica",
+   "texto_dica": "Cuida dos dentes",
+   "seta": "vertical"
+  },
+  {
+   "linha": 2,
+   "coluna": 4,
+   "tipo": "dica",
+   "texto_dica": "Personagem de varinha mágica",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 2,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "F"
+  },
+  {
+   "linha": 2,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 2,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "D"
+  },
+  {
+   "linha": 2,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 2,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "B"
+  },
+  {
+   "linha": 3,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "D"
+  },
+  {
+   "linha": 3,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 3,
+   "coluna": 8,
+   "tipo": "dica",
+   "texto_dica": "Faz rir no circo",
+   "seta": "vertical"
+  },
+  {
+   "linha": 3,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 4,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Mercado ao ar livre",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 4,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "F"
+  },
+  {
+   "linha": 4,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 4,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 4,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 4,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 4,
+   "coluna": 7,
+   "tipo": "dica",
+   "texto_dica": "Dois elementos juntos",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 4,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "P"
+  },
+  {
+   "linha": 4,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 4,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 5,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Imagem captada pela câmera",
+   "seta": "vertical"
+  },
+  {
+   "linha": 5,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "N"
+  },
+  {
+   "linha": 5,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "M"
+  },
+  {
+   "linha": 5,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 5,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "B"
+  },
+  {
+   "linha": 6,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "F"
+  },
+  {
+   "linha": 6,
+   "coluna": 2,
+   "tipo": "dica",
+   "texto_dica": "Ocupação profissional",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 6,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "T"
+  },
+  {
+   "linha": 6,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 6,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 6,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "B"
+  },
+  {
+   "linha": 6,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 6,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 6,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "H"
+  },
+  {
+   "linha": 6,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 7,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 7,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 7,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "C"
+  },
+  {
+   "linha": 7,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "H"
+  },
+  {
+   "linha": 7,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 8,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "T"
+  },
+  {
+   "linha": 8,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "S"
+  },
+  {
+   "linha": 8,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 8,
+   "coluna": 6,
+   "tipo": "dica",
+   "texto_dica": "Bebida preta e amarga da manhã",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 8,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "C"
+  },
+  {
+   "linha": 8,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 8,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "F"
+  },
+  {
+   "linha": 8,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 9,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 9,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "T"
+  },
+  {
+   "linha": 9,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 9,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "C"
+  },
+  {
+   "linha": 9,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "T"
+  },
+  {
+   "linha": 10,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Contrário de guerra",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 10,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "P"
+  },
+  {
+   "linha": 10,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 10,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "Z"
+  },
+  {
+   "linha": 10,
+   "coluna": 6,
+   "tipo": "dica",
+   "texto_dica": "Prato quente e líquido",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 10,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "S"
+  },
+  {
+   "linha": 10,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 10,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "P"
+  },
+  {
+   "linha": 10,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "A"
+  }
+ ]
+}

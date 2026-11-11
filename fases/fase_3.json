@@ -1,0 +1,172 @@
+{
+ "fase": 3,
+ "titulo": "Bom de Boca",
+ "dimensoes": {
+  "linhas": 6,
+  "colunas": 6
+ },
+ "elementos": [
+  {
+   "linha": 1,
+   "coluna": 2,
+   "tipo": "dica",
+   "texto_dica": "Rasteja e pode ter veneno",
+   "seta": "vertical"
+  },
+  {
+   "linha": 1,
+   "coluna": 4,
+   "tipo": "dica",
+   "texto_dica": "Embalagem de papelão",
+   "seta": "vertical"
+  },
+  {
+   "linha": 2,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Fruta cuja água é refrescante",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 2,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "C"
+  },
+  {
+   "linha": 2,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 2,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "C"
+  },
+  {
+   "linha": 2,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 2,
+   "coluna": 6,
+   "tipo": "dica",
+   "texto_dica": "Sessenta minutos",
+   "seta": "vertical"
+  },
+  {
+   "linha": 3,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 3,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 3,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "H"
+  },
+  {
+   "linha": 4,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Contrário de alto",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 4,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "B"
+  },
+  {
+   "linha": 4,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 4,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 4,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "X"
+  },
+  {
+   "linha": 4,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 5,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 5,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "X"
+  },
+  {
+   "linha": 5,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 6,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Ave colorida que imita voz",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 6,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 6,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 6,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 6,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 6,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "A"
+  }
+ ]
+}

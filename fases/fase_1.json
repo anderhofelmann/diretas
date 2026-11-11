@@ -1,0 +1,14 @@
+{
+  "fase": 1,
+  "titulo": "Aquecimento",
+  "dimensoes": { "linhas": 5, "colunas": 5 },
+  "elementos": [
+    { "linha": 1, "coluna": 3, "tipo": "dica", "texto_dica": "🧵 Linha fina", "seta": "vertical" },
+    { "linha": 3, "coluna": 1, "tipo": "dica", "texto_dica": "Curso d'água", "seta": "horizontal" },
+    { "linha": 2, "coluna": 3, "tipo": "letra", "letra_correta": "F" },
+    { "linha": 3, "coluna": 2, "tipo": "letra", "letra_correta": "R" },
+    { "linha": 3, "coluna": 3, "tipo": "letra", "letra_correta": "I" },
+    { "linha": 3, "coluna": 4, "tipo": "letra", "letra_correta": "O" },
+    { "linha": 4, "coluna": 3, "tipo": "letra", "letra_correta": "O" }
+  ]
+}

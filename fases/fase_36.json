@@ -1,0 +1,436 @@
+{
+ "fase": 36,
+ "titulo": "Mestre das Palavras",
+ "dimensoes": {
+  "linhas": 10,
+  "colunas": 10
+ },
+ "elementos": [
+  {
+   "linha": 1,
+   "coluna": 2,
+   "tipo": "dica",
+   "texto_dica": "Doce produzido por abelhas",
+   "seta": "vertical"
+  },
+  {
+   "linha": 1,
+   "coluna": 4,
+   "tipo": "dica",
+   "texto_dica": "Contrário de escuro",
+   "seta": "vertical"
+  },
+  {
+   "linha": 1,
+   "coluna": 8,
+   "tipo": "dica",
+   "texto_dica": "Animal de tromba e presas",
+   "seta": "vertical"
+  },
+  {
+   "linha": 2,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Fruta da bruxa de Branca de Neve",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 2,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "M"
+  },
+  {
+   "linha": 2,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 2,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "C"
+  },
+  {
+   "linha": 2,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 2,
+   "coluna": 6,
+   "tipo": "dica",
+   "texto_dica": "Existir/Ave que repete o que ouve"
+  },
+  {
+   "linha": 2,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "S"
+  },
+  {
+   "linha": 2,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 2,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 2,
+   "coluna": 10,
+   "tipo": "dica",
+   "texto_dica": "Local de tratamento dos doentes",
+   "seta": "vertical"
+  },
+  {
+   "linha": 3,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 3,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 3,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "P"
+  },
+  {
+   "linha": 3,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 3,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "H"
+  },
+  {
+   "linha": 4,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Resposta negativa",
+   "seta": "vertical"
+  },
+  {
+   "linha": 4,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 4,
+   "coluna": 3,
+   "tipo": "dica",
+   "texto_dica": "Cor do limão",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 4,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 4,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "M"
+  },
+  {
+   "linha": 4,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 4,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 4,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 4,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 4,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 5,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "N"
+  },
+  {
+   "linha": 5,
+   "coluna": 3,
+   "tipo": "dica",
+   "texto_dica": "Instrumento de sopro com palhetas",
+   "seta": "vertical"
+  },
+  {
+   "linha": 5,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 5,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "P"
+  },
+  {
+   "linha": 5,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "F"
+  },
+  {
+   "linha": 5,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "S"
+  },
+  {
+   "linha": 6,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 6,
+   "coluna": 2,
+   "tipo": "dica",
+   "texto_dica": "Parte da camisa em volta do pescoço",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 6,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "G"
+  },
+  {
+   "linha": 6,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 6,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 6,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 6,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 6,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "P"
+  },
+  {
+   "linha": 7,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 7,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 7,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "G"
+  },
+  {
+   "linha": 7,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "N"
+  },
+  {
+   "linha": 7,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 8,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Massa redonda italiana com queijo",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 8,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "P"
+  },
+  {
+   "linha": 8,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 8,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "Z"
+  },
+  {
+   "linha": 8,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "Z"
+  },
+  {
+   "linha": 8,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 8,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "T"
+  },
+  {
+   "linha": 8,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "T"
+  },
+  {
+   "linha": 9,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "T"
+  },
+  {
+   "linha": 9,
+   "coluna": 5,
+   "tipo": "dica",
+   "texto_dica": "Pensamento criativo",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 9,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 9,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "D"
+  },
+  {
+   "linha": 9,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 9,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 9,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 10,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Transmite música sem imagem",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 10,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 10,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 10,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "D"
+  },
+  {
+   "linha": 10,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 10,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 10,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "L"
+  }
+ ]
+}

@@ -1,0 +1,582 @@
+SOL|Astro que ilumina o dia|1
+LUA|Satélite natural da Terra|1
+MAR|Grande extensão de água salgada|1
+RIO|Curso d'água que corre para o mar|1
+PAO|Alimento assado feito de farinha|1
+OVO|A galinha o põe|1
+UVA|Fruta que vira vinho|1
+FIO|Linha fina|1
+BOI|Gado de corte|1
+REI|Soberano de um reino|1
+PAI|Genitor|1
+MAE|Quem deu à luz|1
+ASA|Parte da ave usada para voar|1
+ANO|Doze meses|1
+DIA|Período de vinte e quatro horas|1
+LEI|Norma jurídica|1
+SAL|Tempero branco do mar|1
+CEU|Onde ficam as estrelas|1
+MEL|Doce produzido por abelhas|1
+LAR|Casa onde se mora|1
+ELO|Argola de corrente|2
+ERA|Longo período histórico|2
+OCA|Habitação indígena|2
+AVE|Animal que tem penas|1
+ALA|Parte lateral de um prédio|2
+ATO|Divisão de uma peça de teatro|2
+IRA|Raiva intensa|2
+ODE|Poema em louvor a alguém|3
+EGO|O "eu" de cada pessoa|3
+TIO|Irmão do pai ou da mãe|1
+CAL|Pó branco usado para pintar paredes|2
+RUA|Via de uma cidade|1
+PES|Usados para caminhar|1
+DEZ|Número depois do nove|1
+LUZ|Clareia o ambiente|1
+NOZ|Fruta seca de casca dura|1
+BEM|Contrário de mal|1
+MAL|Contrário de bem|1
+SIM|Resposta afirmativa|1
+NAO|Resposta negativa|1
+IDA|Contrário de volta|1
+VIR|Contrário de ir|2
+VER|Enxergar|1
+VOZ|Som que sai da garganta|1
+TOM|Nuance de uma cor ou de um som|2
+SER|Existir|2
+SOM|O que os ouvidos captam|1
+CAO|Melhor amigo do homem|1
+GAS|Combustível do fogão|1
+ARO|Anel grande|2
+FIM|Término|1
+USO|Ato de utilizar|2
+OSSO|Peça do esqueleto|1
+APE|Macaco sem cauda|3
+AZO|Ocasião favorável|3
+ESQUI|Prancha de deslizar na neve|2
+GATO|Felino doméstico|1
+CASA|Moradia|1
+BOLA|Redonda, serve para jogar|1
+ROSA|Flor com espinhos|1
+SAPO|Anfíbio que coaxa|1
+LOBO|Canídeo que uiva|1
+URSO|Animal que hiberna no inverno|1
+PATO|Ave que faz quá|1
+VACA|Fêmea do boi|1
+CAFE|Bebida preta e amarga da manhã|1
+LEAO|Rei da selva|1
+MESA|Móvel para as refeições|1
+PIPA|Brinquedo de papel que voa com linha|1
+FOGO|Queima e ilumina|1
+AGUA|Líquido essencial à vida|1
+TREM|Transporte sobre trilhos|1
+ILHA|Terra cercada de água por todos os lados|1
+UNHA|Fica na ponta do dedo|1
+BOCA|Por ela se come|1
+DEDO|Parte da mão|1
+VELA|Tem pavio e cera|1
+ONDA|Movimento da água do mar|1
+NEVE|Gelo que cai do céu em flocos|1
+CAMA|Móvel para dormir|1
+ANEL|Joia usada no dedo|1
+SINO|Badala na torre da igreja|2
+FACA|Talher que corta|1
+COPO|Recipiente para beber|1
+SOPA|Prato quente e líquido|1
+BOLO|Doce de aniversário|1
+NOTA|Cada som da escala musical|2
+RISO|Manifestação de alegria|2
+TELA|Parte do cinema onde passa o filme|2
+FILA|Espera em ordem de chegada|1
+ROMA|Capital da Itália|2
+PERU|País de Machu Picchu|2
+CUBA|Ilha caribenha cuja capital é Havana|2
+OURO|Metal precioso amarelo|1
+LIXO|Resíduo que se joga fora|1
+CERA|Material da vela|2
+ALMA|Espírito|2
+JOGO|Passatempo com regras|1
+TIME|Equipe esportiva|1
+GOLE|Pequeno trago de bebida|2
+SUCO|Bebida feita de frutas|1
+LIMA|Ferramenta que desgasta metais|2
+PERA|Fruta de formato afilado|2
+COCO|Fruta cuja água é refrescante|1
+FIGO|Fruta roxa e doce|2
+ROXO|Cor da uva madura|2
+AZUL|Cor do céu limpo|1
+RUIM|Que não é bom|1
+FALA|Palavra dita em voz alta|1
+RIMA|Som igual no fim dos versos|2
+NOME|Como alguém é chamado|1
+PENA|Peça leve de uma ave|2
+BICO|Boca das aves|1
+RABO|Cauda do animal|1
+CABO|Parte que se segura na vassoura|2
+ROLO|Cilindro de papel|2
+LAGO|Grande massa de água doce cercada de terra|1
+MATA|Floresta|1
+FLOR|Enfeita o jardim|1
+RAIZ|Parte da planta debaixo da terra|1
+HORA|Sessenta minutos|1
+LOJA|Onde se compra|1
+FEIRA|Mercado ao ar livre|1
+SALA|Cômodo da casa para receber visitas|1
+PISO|Chão|2
+TETO|Parte de cima de um cômodo|1
+PORTA|Entrada de um cômodo|1
+JANELA|Abertura na parede com vidro|1
+MURO|Parede que cerca um terreno|1
+ARCO|Arma do flecheiro|2
+FLECHA|Disparada pelo arco|2
+LUVA|Veste a mão|1
+MEIA|Veste o pé dentro do sapato|1
+BOTA|Calçado de cano alto|1
+SAIA|Peça de roupa feminina sem pernas|1
+GOLA|Parte da camisa em volta do pescoço|2
+MALA|Bagagem de viagem|1
+CHAVE|Abre a fechadura|1
+CAIXA|Embalagem de papelão|1
+VIDRO|Material transparente e frágil|1
+FERRO|Metal usado para passar roupas|1
+PRATA|Metal brilhante das medalhas de segundo lugar|1
+PAPEL|Folha para escrever|1
+LIVRO|Reúne histórias em páginas|1
+CARTA|Mensagem enviada pelo correio|1
+LAPIS|Escreve e tem borracha na ponta|1
+CANETA|Escreve com tinta|1
+REGUA|Mede e traça linhas retas|1
+AULA|Lição na escola|1
+NOTAS|Valores do boletim escolar|2
+TINTA|Colore o papel ou a parede|1
+PINTOR|Artista da tela|2
+POETA|Quem escreve versos|2
+VERSO|Linha de poema|2
+LETRA|Cada símbolo do alfabeto|1
+IDEIA|Pensamento criativo|1
+SONHO|Imagem que se vê dormindo|1
+CHUVA|Água que cai das nuvens|1
+VENTO|Ar em movimento|1
+NUVEM|Fica no céu e solta chuva|1
+RAIO|Descarga elétrica da tempestade|1
+TREVO|Planta de quatro folhas da sorte|2
+ESTRELA|Ponto brilhante no céu à noite|1
+PLANETA|Terra, Marte, Vênus|1
+COMETA|Astro com cauda luminosa|2
+ORBITA|Trajetória de um planeta|3
+LUAR|Claridade da Lua|2
+NOITE|Período escuro do dia|1
+TARDE|Período entre a manhã e a noite|1
+MANHA|Início do dia|1
+ALVO|Ponto a ser atingido|2
+BRASIL|País do futebol e do samba|1
+PARIS|Capital da França|1
+LIMA|Capital peruana|2
+CHILE|País longo e estreito da América do Sul|2
+TERRA|Nosso planeta|1
+PEDRA|Rocha pequena|1
+AREIA|Cobre as praias|1
+PRAIA|Beira do mar com banhistas|1
+MORRO|Elevação de terreno menor que a montanha|1
+SERRA|Cadeia de montanhas|1
+CAMPO|Área rural|1
+FOLHA|Parte verde da árvore|1
+CAULE|Tronco das plantas|2
+FRUTO|Resultado do florescimento|1
+SEMENTE|Origem de uma nova planta|1
+PALMA|Parte interna da mão|2
+BRACO|Liga o ombro à mão|1
+CORPO|Conjunto do organismo humano|1
+CABECA|Parte do corpo onde fica o cérebro|1
+NARIZ|Órgão do olfato|1
+OLHO|Órgão da visão|1
+ORELHA|Órgão da audição|1
+DENTE|Mastiga o alimento|1
+LINGUA|Órgão do paladar|1
+JOELHO|Articulação da perna|1
+TORNOZELO|Articulação do pé|3
+PELE|Reveste o corpo|1
+CORACAO|Órgão que bombeia sangue|1
+PULMAO|Órgão da respiração|2
+CEREBRO|Órgão do pensamento|2
+SANGUE|Líquido vermelho que corre nas veias|1
+OSSOS|Formam o esqueleto|1
+FEBRE|Temperatura alta do corpo|1
+TOSSE|Reflexo de limpar a garganta|1
+GRIPE|Doença com espirros e febre|1
+REMEDIO|Medicamento|1
+DOUTOR|Médico|1
+ENFERMEIRO|Auxilia o médico|3
+LEITE|Líquido branco que vem da vaca|1
+QUEIJO|Derivado do leite que o rato adora|1
+MANTEIGA|Derivada do leite, passa-se no pão|2
+TRIGO|Cereal da farinha|1
+ARROZ|Grão que acompanha o feijão|1
+FEIJAO|Parceiro do arroz no prato brasileiro|1
+CARNE|Alimento do açougue|1
+FRANGO|Ave assada no domingo|1
+PEIXE|Vive na água e nada|1
+MILHO|Cereal da pipoca|1
+BATATA|Tubérculo frito ou cozido|1
+CENOURA|Raiz alaranjada boa para a visão|2
+TOMATE|Fruto vermelho da salada e do molho|1
+ALFACE|Folha verde da salada|1
+CEBOLA|Faz chorar quem a corta|1
+ALHO|Tempero de dentes brancos|1
+LIMAO|Fruta cítrica e azeda|1
+LARANJA|Fruta cítrica que dá suco|1
+BANANA|Fruta amarela do macaco|1
+MACA|Fruta da bruxa de Branca de Neve|1
+MAMAO|Fruta alaranjada típica do café da manhã|1
+MANGA|Fruta tropical de caroço grande|1
+ABACAXI|Fruta tropical de coroa espinhosa|1
+MELAO|Fruta grande de casca amarela e polpa doce|2
+MORANGO|Fruta vermelha pequena do bolo|1
+CEREJA|Fruta que enfeita a torta|1
+GOIABA|Fruta da qual se faz goiabada|1
+ACUCAR|Adoça o café|1
+SAL|Tempera a comida|1
+FARINHA|Pó do trigo ou da mandioca|1
+FERMENTO|Faz o bolo crescer|2
+CAFEZAL|Plantação de café|3
+MANDIOCA|Raiz que dá farinha e tapioca|2
+TAPIOCA|Goma de mandioca no café da manhã|2
+CHOCOLATE|Doce feito de cacau|1
+DOCE|Contrário de salgado|1
+SALGADO|Contrário de doce|1
+AMARGO|Gosto do jiló|2
+AZEDO|Gosto do limão|1
+PIZZA|Massa redonda italiana com queijo|1
+LANCHE|Refeição leve|1
+JANTAR|Refeição da noite|1
+ALMOCO|Refeição do meio-dia|1
+CHURRASCO|Carne na brasa|2
+PIPOCA|Milho estourado do cinema|1
+CACHORRO|Animal que late|1
+CAVALO|Animal que relincha|1
+GALINHA|Põe ovos no galinheiro|1
+GALO|Canta de manhã cedo|1
+PORCO|Animal que grunhe|1
+OVELHA|Fornece a lã|1
+CABRA|Fêmea do bode|2
+COELHO|Orelhudo que adora cenoura|1
+RATO|Roedor que adora queijo|1
+TIGRE|Felino listrado|1
+ONCA|Felino pintado da América|2
+MACACO|Primata que pula de galho em galho|1
+ZEBRA|Cavalo listrado africano|1
+GIRAFA|Animal de pescoço comprido|1
+ELEFANTE|Animal de tromba e presas|1
+BALEIA|Maior mamífero do mar|1
+GOLFINHO|Mamífero marinho muito inteligente|2
+TUBARAO|Peixe predador de grandes dentes|1
+POLVO|Molusco de oito tentáculos|2
+LULA|Molusco de dez tentáculos|2
+CARACOL|Animal que carrega a casa nas costas|1
+COBRA|Rasteja e pode ter veneno|1
+JACARE|Réptil de boca grande dos pântanos|1
+TARTARUGA|Réptil de casco duro e lento|1
+BORBOLETA|Inseto de asas coloridas|1
+ABELHA|Produtora de mel|1
+FORMIGA|Inseto trabalhador da fila indiana|1
+ARANHA|Tece teias|1
+MOSCA|Inseto que zumbe sobre a comida|1
+MOSQUITO|Pernilongo|2
+PASSARO|Animal que canta e voa|1
+CORUJA|Ave noturna de olhos grandes|1
+ARARA|Ave colorida que imita voz|1
+PAPAGAIO|Ave que repete o que ouve|1
+PINGUIM|Ave que não voa e vive no gelo|1
+AGUIA|Ave de rapina de visão aguçada|2
+FALCAO|Ave de rapina veloz|2
+CISNE|Ave elegante de pescoço longo|2
+PAVAO|Ave de cauda em leque colorido|2
+FUTEBOL|Esporte com onze jogadores de cada lado|1
+BASQUETE|Esporte da cesta|1
+VOLEI|Esporte jogado com rede e bola nas mãos|1
+TENIS|Esporte de raquete e quadra|1
+NATACAO|Esporte feito na piscina|2
+CORRIDA|Competição de velocidade a pé|1
+GOL|Alegria do torcedor|1
+TORCIDA|Apoia o time na arquibancada|1
+JUIZ|Apita o jogo|1
+CAMPEAO|Quem vence o torneio|1
+MEDALHA|Prêmio de atleta|1
+TROFEU|Taça de campeão|2
+GINASIO|Local coberto para esportes|3
+PISCINA|Tanque para nadar|1
+BICICLETA|Veículo de duas rodas e pedais|1
+CARRO|Veículo de quatro rodas|1
+ONIBUS|Transporte coletivo urbano|1
+AVIAO|Veículo que voa|1
+BARCO|Navega pela água|1
+NAVIO|Grande embarcação|1
+MOTO|Veículo de duas rodas com motor|1
+TAXI|Carro de aluguel com taxímetro|1
+RODA|Peça circular que gira|1
+PNEU|Borracha que reveste a roda|2
+FREIO|Faz o carro parar|1
+ESTRADA|Via entre cidades|1
+PONTE|Liga as duas margens do rio|1
+TUNEL|Passagem sob a montanha|2
+PORTO|Onde os navios atracam|1
+AEROPORTO|Onde os aviões pousam|2
+VIAGEM|Deslocamento para longe|1
+PASSAGEM|Bilhete de viagem|2
+HOTEL|Hospedagem paga|1
+MAPA|Representa um território no papel|1
+BUSSOLA|Aponta o norte|2
+NORTE|Ponto cardeal oposto ao sul|1
+SUL|Ponto cardeal oposto ao norte|1
+LESTE|Onde o sol nasce|2
+OESTE|Onde o sol se põe|2
+MUSICA|Arte dos sons|1
+CANTO|Ato de entoar melodias|1
+VIOLAO|Instrumento de seis cordas|1
+PIANO|Instrumento de teclas brancas e pretas|1
+FLAUTA|Instrumento de sopro delicado|2
+TAMBOR|Instrumento de percussão|1
+GAITA|Instrumento de sopro com palhetas|2
+SAMBA|Ritmo brasileiro do Carnaval|1
+DANCA|Movimento ao som da música|1
+CINEMA|Sala de filmes|1
+FILME|Obra exibida na telona|1
+TEATRO|Casa de peças e espetáculos|1
+PALCO|Onde atuam os artistas|1
+ATOR|Quem interpreta personagens|1
+ATRIZ|Intérprete feminina de papéis|1
+CIRCO|Espetáculo com palhaços e trapezistas|1
+PALHACO|Faz rir no circo|1
+MAGICO|Tira coelho da cartola|2
+FESTA|Comemoração animada|1
+BALAO|Enfeite de festa que enche de ar|1
+PRESENTE|Algo que se dá no aniversário|1
+NATAL|Festa de 25 de dezembro|1
+CARNAVAL|Folia de fevereiro|1
+ESCOLA|Lugar de estudar|1
+ALUNO|Quem estuda|1
+PROFESSOR|Quem ensina|1
+CADERNO|Reúne folhas para anotar|1
+MOCHILA|Carrega o material escolar nas costas|1
+PROVA|Teste da escola|1
+LICAO|Tarefa de estudo|2
+ALFABETO|Conjunto das letras|2
+NUMERO|Representa uma quantidade|1
+SOMA|Resultado da adição|1
+METADE|Cada uma das duas partes iguais|2
+DOBRO|Duas vezes uma quantidade|2
+TRIPLO|Três vezes uma quantidade|3
+CENTENA|Grupo de cem|3
+DUZIA|Doze unidades|2
+PAR|Dois elementos juntos|2
+CIDADE|Grande aglomerado urbano|1
+BAIRRO|Subdivisão de uma cidade|1
+PRACA|Local público com bancos e árvores|1
+IGREJA|Templo cristão|1
+HOSPITAL|Local de tratamento dos doentes|1
+BANCO|Guarda o dinheiro da população|1
+DINHEIRO|Meio de pagamento|1
+MOEDA|Dinheiro de metal|1
+PRECO|Quanto custa|1
+LUCRO|Ganho de um negócio|2
+CAIXA|Local de pagamento no mercado|2
+MERCADO|Local de compras de alimentos|1
+PADARIA|Vende pão fresquinho|1
+FARMACIA|Vende remédios|1
+SORVETE|Doce gelado de casquinha|1
+ESPELHO|Reflete a imagem|1
+RELOGIO|Marca as horas|1
+TELEFONE|Aparelho de ligações|1
+CELULAR|Telefone portátil|1
+COMPUTADOR|Máquina de processar dados|2
+INTERNET|Rede mundial de computadores|1
+TECLADO|Onde se digita|1
+MOUSE|Aponta e clica na tela|1
+SENHA|Código secreto de acesso|1
+FOTO|Imagem captada pela câmera|1
+RADIO|Transmite música sem imagem|1
+TELEVISAO|Transmite programas com imagem|1
+JORNAL|Traz notícias diárias|1
+REVISTA|Publicação periódica ilustrada|1
+HISTORIA|Narrativa de fatos|1
+CONTO|Narrativa curta|2
+FADA|Personagem de varinha mágica|1
+BRUXA|Personagem de vassoura voadora|1
+DRAGAO|Monstro que cospe fogo|1
+CASTELO|Moradia fortificada de reis|1
+PRINCESA|Filha do rei|1
+HEROI|Personagem corajoso|1
+PIRATA|Navegador de bandeira com caveira|1
+TESOURO|Baú de ouro enterrado|1
+GUERRA|Conflito armado|1
+PAZ|Contrário de guerra|1
+AMOR|Sentimento forte de carinho|1
+ALEGRIA|Sentimento de contentamento|1
+TRISTE|Abatido, sem alegria|1
+MEDO|Sentimento diante do perigo|1
+CORAGEM|Falta de medo|2
+SAUDADE|Falta de alguém querido, tão brasileira|2
+AMIGO|Pessoa querida de confiança|1
+FAMILIA|Pais, filhos e irmãos|1
+IRMAO|Filho dos mesmos pais|1
+AVO|Pai do pai ou da mãe|2
+PRIMO|Filho do tio|1
+VIZINHO|Mora ao lado|1
+BEBE|Criança recém-nascida|1
+CRIANCA|Pessoa de pouca idade|1
+JOVEM|Que tem pouca idade|1
+IDOSO|Pessoa de muita idade|1
+TRABALHO|Ocupação profissional|1
+EMPREGO|Posto de trabalho|2
+PEDREIRO|Constrói paredes|2
+CARPINTEIRO|Trabalha a madeira|2
+COZINHEIRO|Prepara as refeições|2
+MOTORISTA|Dirige veículos|1
+PILOTO|Conduz o avião|2
+BOMBEIRO|Apaga incêndios|1
+POLICIA|Garante a segurança pública|1
+ADVOGADO|Defende alguém na justiça|2
+DENTISTA|Cuida dos dentes|1
+JARDIM|Terreno com flores e plantas|1
+HORTA|Terreno de hortaliças|1
+FAZENDA|Propriedade rural|1
+ARVORE|Planta de tronco e galhos|1
+GALHO|Parte da árvore onde pousam pássaros|1
+FLORESTA|Grande extensão de mata|1
+DESERTO|Terra árida de pouca chuva|2
+VULCAO|Montanha que expele lava|2
+MONTANHA|Grande elevação de terreno|1
+VALE|Terreno entre montanhas|2
+CACHOEIRA|Queda d'água em rio|2
+OCEANO|Imensa massa de água salgada|2
+CORAL|Animal marinho que forma recifes|2
+RECIFE|Capital pernambucana|2
+AMAZONIA|Maior floresta tropical do mundo|2
+INVERNO|Estação mais fria do ano|1
+VERAO|Estação mais quente do ano|1
+OUTONO|Estação em que as folhas caem|2
+PRIMAVERA|Estação das flores|1
+JANEIRO|Primeiro mês do ano|1
+FEVEREIRO|Mês do Carnaval|2
+DEZEMBRO|Último mês do ano|1
+SEGUNDA|Primeiro dia útil da semana|1
+DOMINGO|Dia de descanso da semana|1
+SEMANA|Sete dias|1
+MINUTO|Sessenta segundos|1
+SECULO|Cem anos|2
+FUTURO|O que ainda virá|1
+PASSADO|O que já foi|1
+AGORA|Neste momento|1
+SEMPRE|Em todo o tempo|1
+NUNCA|Em tempo algum|1
+ONTEM|Dia anterior ao de hoje|1
+AMANHA|Dia seguinte ao de hoje|1
+CEDO|Antes da hora marcada|1
+TARDE|Depois da hora marcada|1
+RAPIDO|Veloz|1
+LENTO|Vagaroso|1
+FORTE|Que tem muita força|1
+FRACO|Que tem pouca força|1
+GRANDE|De tamanho elevado|1
+PEQUENO|De tamanho reduzido|1
+ALTO|Contrário de baixo|1
+BAIXO|Contrário de alto|1
+LONGE|A grande distância|1
+PERTO|A pouca distância|1
+CHEIO|Contrário de vazio|1
+VAZIO|Contrário de cheio|1
+QUENTE|Contrário de frio|1
+FRIO|Contrário de quente|1
+LIMPO|Sem sujeira|1
+SUJO|Cheio de sujeira|1
+NOVO|Contrário de velho|1
+VELHO|Contrário de novo|1
+CLARO|Contrário de escuro|1
+ESCURO|Sem luz|1
+LEVE|Que pesa pouco|1
+PESADO|Que pesa muito|1
+DURO|Contrário de mole|1
+MOLE|Macio ao toque|1
+SECO|Sem umidade|1
+MOLHADO|Cheio de água|1
+RICO|Que tem muito dinheiro|1
+POBRE|Que tem pouco dinheiro|1
+FELIZ|Contente|1
+BRAVO|Zangado|2
+CALMO|Tranquilo|1
+LOUCO|Sem juízo|2
+SABIO|Cheio de conhecimento|2
+ESPERTO|Inteligente e ligeiro|2
+BONITO|Belo|1
+FEIO|Contrário de belo|1
+DOENTE|Que não está saudável|1
+SAUDE|Estado de quem está bem de corpo|1
+SONO|Vontade de dormir|1
+FOME|Vontade de comer|1
+SEDE|Vontade de beber água|1
+FRIOS|Embutidos e queijos fatiados|2
+VERDE|Cor da folha|1
+VERMELHO|Cor do tomate maduro|1
+AMARELO|Cor do limão|1
+BRANCO|Cor da neve|1
+PRETO|Cor do carvão|1
+CINZA|Cor de nuvens de chuva|1
+MARROM|Cor do chocolate|1
+DOURADO|Cor do ouro|2
+ROSADO|Tom claro de vermelho|2
+LILAS|Tom claro de roxo|2
+CAMISA|Veste o tronco e tem botões|1
+CALCA|Veste as pernas|1
+SAPATO|Calçado fechado|1
+CHAPEU|Cobre a cabeça|1
+VESTIDO|Roupa feminina inteira|1
+CINTO|Prende a calça na cintura|1
+BOLSA|Carrega objetos pessoais|1
+OCULOS|Ajudam a enxergar melhor|1
+COLAR|Enfeite de pescoço|2
+BRINCO|Enfeite da orelha|1
+PULSEIRA|Enfeite do pulso|2
+SABAO|Limpa roupa e mãos|1
+TOALHA|Seca o corpo depois do banho|1
+BANHO|Higiene com água e sabão|1
+CHUVEIRO|Joga água sobre quem toma banho|1
+PENTE|Alinha os cabelos|1
+ESCOVA|Limpa os dentes|1
+CADEIRA|Móvel de sentar com encosto|1
+SOFA|Móvel estofado da sala|1
+ARMARIO|Guarda roupas e louças|1
+TAPETE|Cobre o chão da sala|1
+CORTINA|Cobre a janela|1
+LAMPADA|Ilumina o cômodo|1
+FOGAO|Eletrodoméstico de cozinhar|1
+GELADEIRA|Conserva alimentos frios|1
+PANELA|Recipiente de cozinhar|1
+COLHER|Talher de sopa|1
+GARFO|Talher de espetar|1
+PRATO|Recipiente onde se serve a comida|1
+XICARA|Recipiente de café|2
+JARRA|Recipiente de suco|2
+CHAMINE|Saída de fumaça|3
+TELHADO|Cobertura da casa|1
+ESCADA|Sobe degrau por degrau|1
+ELEVADOR|Sobe e desce no prédio|2
+PORTAO|Entrada de garagem|1
+JOGADOR|Quem participa do jogo|1
+DADO|Cubo de seis faces|1
+BARALHO|Conjunto de cartas|2
+XADREZ|Jogo de reis e rainhas num tabuleiro|2
+DAMAS|Jogo de peças pretas e brancas em tabuleiro|2
+DOMINO|Jogo de peças com pontos|2
+PEAO|Peça mais fraca do xadrez|2
+TORRE|Peça do xadrez que anda em linha reta|2
+BISPO|Peça de xadrez que anda na diagonal|2
+RAINHA|Peça mais forte do xadrez|1
+BONECA|Brinquedo de menina|1
+PIAO|Brinquedo que gira|2
+BOLHA|Sabão que flutua|2
+PALAVRA|Conjunto de letras com significado|1
+CRUZADA|Tipo de passatempo com palavras|2
+DICA|Pista que ajuda|1
+ENIGMA|Mistério a decifrar|2
+RESPOSTA|Solução de uma pergunta|1
+PERGUNTA|Questão|1

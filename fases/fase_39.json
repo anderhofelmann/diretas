@@ -1,0 +1,474 @@
+{
+ "fase": 39,
+ "titulo": "Fio da Meada",
+ "dimensoes": {
+  "linhas": 11,
+  "colunas": 10
+ },
+ "elementos": [
+  {
+   "linha": 1,
+   "coluna": 2,
+   "tipo": "dica",
+   "texto_dica": "Rei da selva",
+   "seta": "vertical"
+  },
+  {
+   "linha": 1,
+   "coluna": 3,
+   "tipo": "dica",
+   "texto_dica": "Animal marinho que forma recifes",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 1,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "C"
+  },
+  {
+   "linha": 1,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 1,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 1,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 1,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 2,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 2,
+   "coluna": 4,
+   "tipo": "dica",
+   "texto_dica": "Via entre cidades",
+   "seta": "vertical"
+  },
+  {
+   "linha": 2,
+   "coluna": 6,
+   "tipo": "dica",
+   "texto_dica": "Defende alguém na justiça",
+   "seta": "vertical"
+  },
+  {
+   "linha": 2,
+   "coluna": 8,
+   "tipo": "dica",
+   "texto_dica": "Peixe predador de grandes dentes",
+   "seta": "vertical"
+  },
+  {
+   "linha": 3,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Animal de tromba e presas",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 3,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 3,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 3,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 3,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "F"
+  },
+  {
+   "linha": 3,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 3,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "N"
+  },
+  {
+   "linha": 3,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "T"
+  },
+  {
+   "linha": 3,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 3,
+   "coluna": 10,
+   "tipo": "dica",
+   "texto_dica": "Esporte feito na piscina",
+   "seta": "vertical"
+  },
+  {
+   "linha": 4,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 4,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "S"
+  },
+  {
+   "linha": 4,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "D"
+  },
+  {
+   "linha": 4,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "U"
+  },
+  {
+   "linha": 4,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "N"
+  },
+  {
+   "linha": 5,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Ave colorida que imita voz",
+   "seta": "vertical"
+  },
+  {
+   "linha": 5,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 5,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "T"
+  },
+  {
+   "linha": 5,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "V"
+  },
+  {
+   "linha": 5,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "B"
+  },
+  {
+   "linha": 5,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 6,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 6,
+   "coluna": 2,
+   "tipo": "dica",
+   "texto_dica": "Animal que hiberna no inverno",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 6,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "U"
+  },
+  {
+   "linha": 6,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 6,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "S"
+  },
+  {
+   "linha": 6,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 6,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 6,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "T"
+  },
+  {
+   "linha": 7,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 7,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 7,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "G"
+  },
+  {
+   "linha": 7,
+   "coluna": 7,
+   "tipo": "dica",
+   "texto_dica": "Via de uma cidade",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 7,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 7,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "U"
+  },
+  {
+   "linha": 7,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 8,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 8,
+   "coluna": 3,
+   "tipo": "dica",
+   "texto_dica": "Doce produzido por abelhas",
+   "seta": "vertical"
+  },
+  {
+   "linha": 8,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "D"
+  },
+  {
+   "linha": 8,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 8,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 8,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "C"
+  },
+  {
+   "linha": 9,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 9,
+   "coluna": 2,
+   "tipo": "dica",
+   "texto_dica": "Raiz que dá farinha e tapioca",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 9,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "M"
+  },
+  {
+   "linha": 9,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 9,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "N"
+  },
+  {
+   "linha": 9,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "D"
+  },
+  {
+   "linha": 9,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 9,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 9,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "C"
+  },
+  {
+   "linha": 9,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 10,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 10,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 10,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 10,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 11,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Argola de corrente",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 11,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 11,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 11,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 11,
+   "coluna": 6,
+   "tipo": "dica",
+   "texto_dica": "Genitor",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 11,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "P"
+  },
+  {
+   "linha": 11,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 11,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "I"
+  }
+ ]
+}

@@ -1,0 +1,407 @@
+{
+ "fase": 35,
+ "titulo": "Grande Enigma",
+ "dimensoes": {
+  "linhas": 10,
+  "colunas": 10
+ },
+ "elementos": [
+  {
+   "linha": 1,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Habitação indígena/Espera em ordem de chegada"
+  },
+  {
+   "linha": 1,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 1,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "C"
+  },
+  {
+   "linha": 1,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 1,
+   "coluna": 5,
+   "tipo": "dica",
+   "texto_dica": "Goma de mandioca no café da manhã",
+   "seta": "vertical"
+  },
+  {
+   "linha": 1,
+   "coluna": 7,
+   "tipo": "dica",
+   "texto_dica": "Alegria do torcedor/Queda d'água em rio"
+  },
+  {
+   "linha": 1,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "G"
+  },
+  {
+   "linha": 1,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 1,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 2,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "F"
+  },
+  {
+   "linha": 2,
+   "coluna": 3,
+   "tipo": "dica",
+   "texto_dica": "Aparelho de ligações",
+   "seta": "vertical"
+  },
+  {
+   "linha": 2,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "T"
+  },
+  {
+   "linha": 2,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "C"
+  },
+  {
+   "linha": 2,
+   "coluna": 10,
+   "tipo": "dica",
+   "texto_dica": "Estação em que as folhas caem",
+   "seta": "vertical"
+  },
+  {
+   "linha": 3,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 3,
+   "coluna": 2,
+   "tipo": "dica",
+   "texto_dica": "Ocupação profissional",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 3,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "T"
+  },
+  {
+   "linha": 3,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 3,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 3,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "B"
+  },
+  {
+   "linha": 3,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 3,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 3,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "H"
+  },
+  {
+   "linha": 3,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 4,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 4,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 4,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "P"
+  },
+  {
+   "linha": 4,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "C"
+  },
+  {
+   "linha": 4,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "U"
+  },
+  {
+   "linha": 5,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 5,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 5,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 5,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "H"
+  },
+  {
+   "linha": 5,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "T"
+  },
+  {
+   "linha": 6,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Onde os aviões pousam",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 6,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 6,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 6,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 6,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 6,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "P"
+  },
+  {
+   "linha": 6,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 6,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 6,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "T"
+  },
+  {
+   "linha": 6,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 7,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "F"
+  },
+  {
+   "linha": 7,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "C"
+  },
+  {
+   "linha": 7,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 7,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "N"
+  },
+  {
+   "linha": 8,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Resultado da adição",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 8,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "S"
+  },
+  {
+   "linha": 8,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 8,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "M"
+  },
+  {
+   "linha": 8,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 8,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 8,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 9,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "N"
+  },
+  {
+   "linha": 9,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 10,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Telefone portátil",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 10,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "C"
+  },
+  {
+   "linha": 10,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 10,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 10,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "U"
+  },
+  {
+   "linha": 10,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 10,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 10,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "R"
+  }
+ ]
+}

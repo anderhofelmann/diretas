@@ -1,0 +1,337 @@
+{
+ "fase": 18,
+ "titulo": "Sol a Pino",
+ "dimensoes": {
+  "linhas": 9,
+  "colunas": 9
+ },
+ "elementos": [
+  {
+   "linha": 1,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Doce produzido por abelhas",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 1,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "M"
+  },
+  {
+   "linha": 1,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 1,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 1,
+   "coluna": 5,
+   "tipo": "dica",
+   "texto_dica": "Raiva intensa",
+   "seta": "vertical"
+  },
+  {
+   "linha": 1,
+   "coluna": 7,
+   "tipo": "dica",
+   "texto_dica": "País de Machu Picchu",
+   "seta": "vertical"
+  },
+  {
+   "linha": 1,
+   "coluna": 9,
+   "tipo": "dica",
+   "texto_dica": "Marca as horas",
+   "seta": "vertical"
+  },
+  {
+   "linha": 2,
+   "coluna": 3,
+   "tipo": "dica",
+   "texto_dica": "Origem de uma nova planta",
+   "seta": "vertical"
+  },
+  {
+   "linha": 2,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 2,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "P"
+  },
+  {
+   "linha": 2,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 3,
+   "coluna": 2,
+   "tipo": "dica",
+   "texto_dica": "Doce gelado de casquinha",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 3,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "S"
+  },
+  {
+   "linha": 3,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 3,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 3,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "V"
+  },
+  {
+   "linha": 3,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 3,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "T"
+  },
+  {
+   "linha": 3,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 4,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Brinquedo de papel que voa com linha",
+   "seta": "vertical"
+  },
+  {
+   "linha": 4,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 4,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 4,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 4,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 5,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "P"
+  },
+  {
+   "linha": 5,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "M"
+  },
+  {
+   "linha": 5,
+   "coluna": 5,
+   "tipo": "dica",
+   "texto_dica": "Metal precioso amarelo/Doce de aniversário"
+  },
+  {
+   "linha": 5,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 5,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "U"
+  },
+  {
+   "linha": 5,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 5,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 6,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 6,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 6,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "B"
+  },
+  {
+   "linha": 6,
+   "coluna": 7,
+   "tipo": "dica",
+   "texto_dica": "Dois elementos juntos",
+   "seta": "vertical"
+  },
+  {
+   "linha": 6,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "G"
+  },
+  {
+   "linha": 7,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "P"
+  },
+  {
+   "linha": 7,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "N"
+  },
+  {
+   "linha": 7,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 7,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "P"
+  },
+  {
+   "linha": 7,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 8,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 8,
+   "coluna": 2,
+   "tipo": "dica",
+   "texto_dica": "Cobertura da casa",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 8,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "T"
+  },
+  {
+   "linha": 8,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 8,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 8,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "H"
+  },
+  {
+   "linha": 8,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 8,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "D"
+  },
+  {
+   "linha": 8,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 9,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 9,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 9,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "R"
+  }
+ ]
+}

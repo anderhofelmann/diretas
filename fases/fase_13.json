@@ -1,0 +1,342 @@
+{
+ "fase": 13,
+ "titulo": "Lance de Mestre",
+ "dimensoes": {
+  "linhas": 9,
+  "colunas": 9
+ },
+ "elementos": [
+  {
+   "linha": 1,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Via de uma cidade/Resíduo que se joga fora"
+  },
+  {
+   "linha": 1,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 1,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "U"
+  },
+  {
+   "linha": 1,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 1,
+   "coluna": 6,
+   "tipo": "dica",
+   "texto_dica": "Adoça o café",
+   "seta": "vertical"
+  },
+  {
+   "linha": 1,
+   "coluna": 8,
+   "tipo": "dica",
+   "texto_dica": "A galinha o põe",
+   "seta": "vertical"
+  },
+  {
+   "linha": 2,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 2,
+   "coluna": 4,
+   "tipo": "dica",
+   "texto_dica": "Canta de manhã cedo/Deslocamento para longe"
+  },
+  {
+   "linha": 2,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "G"
+  },
+  {
+   "linha": 2,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 2,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 2,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 3,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 3,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "V"
+  },
+  {
+   "linha": 3,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "C"
+  },
+  {
+   "linha": 3,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "V"
+  },
+  {
+   "linha": 4,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "X"
+  },
+  {
+   "linha": 4,
+   "coluna": 2,
+   "tipo": "dica",
+   "texto_dica": "Sessenta segundos",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 4,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "M"
+  },
+  {
+   "linha": 4,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 4,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "N"
+  },
+  {
+   "linha": 4,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "U"
+  },
+  {
+   "linha": 4,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "T"
+  },
+  {
+   "linha": 4,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 4,
+   "coluna": 9,
+   "tipo": "dica",
+   "texto_dica": "Comemoração animada",
+   "seta": "vertical"
+  },
+  {
+   "linha": 5,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 5,
+   "coluna": 2,
+   "tipo": "dica",
+   "texto_dica": "Fêmea do boi",
+   "seta": "vertical"
+  },
+  {
+   "linha": 5,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 5,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "C"
+  },
+  {
+   "linha": 5,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "F"
+  },
+  {
+   "linha": 6,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "V"
+  },
+  {
+   "linha": 6,
+   "coluna": 3,
+   "tipo": "dica",
+   "texto_dica": "De tamanho elevado",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 6,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "G"
+  },
+  {
+   "linha": 6,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 6,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 6,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "N"
+  },
+  {
+   "linha": 6,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "D"
+  },
+  {
+   "linha": 6,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 7,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 7,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 7,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 7,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "S"
+  },
+  {
+   "linha": 8,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Móvel para dormir",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 8,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "C"
+  },
+  {
+   "linha": 8,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 8,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "M"
+  },
+  {
+   "linha": 8,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 8,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "T"
+  },
+  {
+   "linha": 9,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 9,
+   "coluna": 5,
+   "tipo": "dica",
+   "texto_dica": "Peça de roupa feminina sem pernas",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 9,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "S"
+  },
+  {
+   "linha": 9,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 9,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 9,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "A"
+  }
+ ]
+}

@@ -1,0 +1,357 @@
+{
+ "fase": 17,
+ "titulo": "Pente Fino",
+ "dimensoes": {
+  "linhas": 9,
+  "colunas": 9
+ },
+ "elementos": [
+  {
+   "linha": 1,
+   "coluna": 2,
+   "tipo": "dica",
+   "texto_dica": "Onde o sol se põe",
+   "seta": "vertical"
+  },
+  {
+   "linha": 1,
+   "coluna": 4,
+   "tipo": "dica",
+   "texto_dica": "Órgão que bombeia sangue",
+   "seta": "vertical"
+  },
+  {
+   "linha": 1,
+   "coluna": 5,
+   "tipo": "dica",
+   "texto_dica": "Carro de aluguel com taxímetro",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 1,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "T"
+  },
+  {
+   "linha": 1,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 1,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "X"
+  },
+  {
+   "linha": 1,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 2,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Felino pintado da América",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 2,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 2,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "N"
+  },
+  {
+   "linha": 2,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "C"
+  },
+  {
+   "linha": 2,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 2,
+   "coluna": 6,
+   "tipo": "dica",
+   "texto_dica": "Quem vence o torneio",
+   "seta": "vertical"
+  },
+  {
+   "linha": 3,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 3,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 3,
+   "coluna": 5,
+   "tipo": "dica",
+   "texto_dica": "Onde ficam as estrelas",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 3,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "C"
+  },
+  {
+   "linha": 3,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 3,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "U"
+  },
+  {
+   "linha": 3,
+   "coluna": 9,
+   "tipo": "dica",
+   "texto_dica": "Folha verde da salada",
+   "seta": "vertical"
+  },
+  {
+   "linha": 4,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Cadeia de montanhas",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 4,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "S"
+  },
+  {
+   "linha": 4,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 4,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 4,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 4,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 4,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 5,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "T"
+  },
+  {
+   "linha": 5,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 5,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "M"
+  },
+  {
+   "linha": 5,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 6,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Gado de corte",
+   "seta": "vertical"
+  },
+  {
+   "linha": 6,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 6,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "C"
+  },
+  {
+   "linha": 6,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "P"
+  },
+  {
+   "linha": 6,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "F"
+  },
+  {
+   "linha": 7,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "B"
+  },
+  {
+   "linha": 7,
+   "coluna": 2,
+   "tipo": "dica",
+   "texto_dica": "Propriedade rural",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 7,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "F"
+  },
+  {
+   "linha": 7,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 7,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "Z"
+  },
+  {
+   "linha": 7,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 7,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "N"
+  },
+  {
+   "linha": 7,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "D"
+  },
+  {
+   "linha": 7,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 8,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 8,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 8,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 8,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "C"
+  },
+  {
+   "linha": 9,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 9,
+   "coluna": 4,
+   "tipo": "dica",
+   "texto_dica": "Ponto cardeal oposto ao sul",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 9,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "N"
+  },
+  {
+   "linha": 9,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 9,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 9,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "T"
+  },
+  {
+   "linha": 9,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "E"
+  }
+ ]
+}

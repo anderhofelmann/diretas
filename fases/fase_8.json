@@ -1,0 +1,387 @@
+{
+ "fase": 8,
+ "titulo": "Ideia Fixa",
+ "dimensoes": {
+  "linhas": 9,
+  "colunas": 9
+ },
+ "elementos": [
+  {
+   "linha": 1,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Ponto cardeal oposto ao norte/Onde ficam as estrelas"
+  },
+  {
+   "linha": 1,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "S"
+  },
+  {
+   "linha": 1,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "U"
+  },
+  {
+   "linha": 1,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 1,
+   "coluna": 8,
+   "tipo": "dica",
+   "texto_dica": "Gado de corte",
+   "seta": "vertical"
+  },
+  {
+   "linha": 2,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "C"
+  },
+  {
+   "linha": 2,
+   "coluna": 4,
+   "tipo": "dica",
+   "texto_dica": "Ritmo brasileiro do Carnaval",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 2,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "S"
+  },
+  {
+   "linha": 2,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 2,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "M"
+  },
+  {
+   "linha": 2,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "B"
+  },
+  {
+   "linha": 2,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 3,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 3,
+   "coluna": 3,
+   "tipo": "dica",
+   "texto_dica": "Fruta amarela do macaco",
+   "seta": "vertical"
+  },
+  {
+   "linha": 3,
+   "coluna": 5,
+   "tipo": "dica",
+   "texto_dica": "Subdivisão de uma cidade",
+   "seta": "vertical"
+  },
+  {
+   "linha": 3,
+   "coluna": 7,
+   "tipo": "dica",
+   "texto_dica": "Sete dias",
+   "seta": "vertical"
+  },
+  {
+   "linha": 3,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 3,
+   "coluna": 9,
+   "tipo": "dica",
+   "texto_dica": "Cor do chocolate",
+   "seta": "vertical"
+  },
+  {
+   "linha": 4,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "U"
+  },
+  {
+   "linha": 4,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "B"
+  },
+  {
+   "linha": 4,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "B"
+  },
+  {
+   "linha": 4,
+   "coluna": 6,
+   "tipo": "dica",
+   "texto_dica": "Resposta afirmativa",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 4,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "S"
+  },
+  {
+   "linha": 4,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 4,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "M"
+  },
+  {
+   "linha": 5,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Réptil de boca grande dos pântanos/Contrário de bem"
+  },
+  {
+   "linha": 5,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "J"
+  },
+  {
+   "linha": 5,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 5,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "C"
+  },
+  {
+   "linha": 5,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 5,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 5,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 5,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 6,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "M"
+  },
+  {
+   "linha": 6,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "N"
+  },
+  {
+   "linha": 6,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 6,
+   "coluna": 6,
+   "tipo": "dica",
+   "texto_dica": "Grande extensão de água salgada",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 6,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "M"
+  },
+  {
+   "linha": 6,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 6,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 7,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 7,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 7,
+   "coluna": 4,
+   "tipo": "dica",
+   "texto_dica": "Via de uma cidade",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 7,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 7,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "U"
+  },
+  {
+   "linha": 7,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 7,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 8,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 8,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "N"
+  },
+  {
+   "linha": 8,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 8,
+   "coluna": 6,
+   "tipo": "dica",
+   "texto_dica": "Resposta negativa",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 8,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "N"
+  },
+  {
+   "linha": 8,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 8,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 9,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Anfíbio que coaxa",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 9,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "S"
+  },
+  {
+   "linha": 9,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 9,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "P"
+  },
+  {
+   "linha": 9,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 9,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 9,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "M"
+  }
+ ]
+}

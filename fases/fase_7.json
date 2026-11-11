@@ -1,0 +1,288 @@
+{
+ "fase": 7,
+ "titulo": "Passo a Passo",
+ "dimensoes": {
+  "linhas": 8,
+  "colunas": 8
+ },
+ "elementos": [
+  {
+   "linha": 1,
+   "coluna": 2,
+   "tipo": "dica",
+   "texto_dica": "Via de uma cidade/Parte da ave usada para voar"
+  },
+  {
+   "linha": 1,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 1,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "U"
+  },
+  {
+   "linha": 1,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 1,
+   "coluna": 6,
+   "tipo": "dica",
+   "texto_dica": "Recipiente para beber",
+   "seta": "vertical"
+  },
+  {
+   "linha": 2,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 2,
+   "coluna": 4,
+   "tipo": "dica",
+   "texto_dica": "Subdivisão de uma cidade",
+   "seta": "vertical"
+  },
+  {
+   "linha": 2,
+   "coluna": 5,
+   "tipo": "dica",
+   "texto_dica": "Melhor amigo do homem",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 2,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "C"
+  },
+  {
+   "linha": 2,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 2,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 3,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Limpa roupa e mãos",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 3,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "S"
+  },
+  {
+   "linha": 3,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 3,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "B"
+  },
+  {
+   "linha": 3,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 3,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 3,
+   "coluna": 8,
+   "tipo": "dica",
+   "texto_dica": "Ritmo brasileiro do Carnaval",
+   "seta": "vertical"
+  },
+  {
+   "linha": 4,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Que pesa pouco",
+   "seta": "vertical"
+  },
+  {
+   "linha": 4,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 4,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 4,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "P"
+  },
+  {
+   "linha": 4,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "S"
+  },
+  {
+   "linha": 5,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 5,
+   "coluna": 2,
+   "tipo": "dica",
+   "texto_dica": "Milho estourado do cinema",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 5,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "P"
+  },
+  {
+   "linha": 5,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 5,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "P"
+  },
+  {
+   "linha": 5,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 5,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "C"
+  },
+  {
+   "linha": 5,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 6,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 6,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 6,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "M"
+  },
+  {
+   "linha": 7,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "V"
+  },
+  {
+   "linha": 7,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 7,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "B"
+  },
+  {
+   "linha": 8,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 8,
+   "coluna": 2,
+   "tipo": "dica",
+   "texto_dica": "Ave noturna de olhos grandes",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 8,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "C"
+  },
+  {
+   "linha": 8,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 8,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 8,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "U"
+  },
+  {
+   "linha": 8,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "J"
+  },
+  {
+   "linha": 8,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "A"
+  }
+ ]
+}

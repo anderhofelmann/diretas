@@ -1,0 +1,441 @@
+{
+ "fase": 27,
+ "titulo": "Voz do Povo",
+ "dimensoes": {
+  "linhas": 10,
+  "colunas": 10
+ },
+ "elementos": [
+  {
+   "linha": 1,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Norma jurídica",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 1,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 1,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 1,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 1,
+   "coluna": 5,
+   "tipo": "dica",
+   "texto_dica": "Estado de quem está bem de corpo",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 1,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "S"
+  },
+  {
+   "linha": 1,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 1,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "U"
+  },
+  {
+   "linha": 1,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "D"
+  },
+  {
+   "linha": 1,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 2,
+   "coluna": 3,
+   "tipo": "dica",
+   "texto_dica": "Animal de tromba e presas",
+   "seta": "vertical"
+  },
+  {
+   "linha": 2,
+   "coluna": 5,
+   "tipo": "dica",
+   "texto_dica": "Defende alguém na justiça",
+   "seta": "vertical"
+  },
+  {
+   "linha": 2,
+   "coluna": 8,
+   "tipo": "dica",
+   "texto_dica": "Bilhete de viagem",
+   "seta": "vertical"
+  },
+  {
+   "linha": 2,
+   "coluna": 10,
+   "tipo": "dica",
+   "texto_dica": "Peixe predador de grandes dentes",
+   "seta": "vertical"
+  },
+  {
+   "linha": 3,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Material da vela/País de Machu Picchu"
+  },
+  {
+   "linha": 3,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "C"
+  },
+  {
+   "linha": 3,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 3,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 3,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 3,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "P"
+  },
+  {
+   "linha": 3,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "T"
+  },
+  {
+   "linha": 4,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "P"
+  },
+  {
+   "linha": 4,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 4,
+   "coluna": 4,
+   "tipo": "dica",
+   "texto_dica": "Pista que ajuda",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 4,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "D"
+  },
+  {
+   "linha": 4,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 4,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "C"
+  },
+  {
+   "linha": 4,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 4,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "U"
+  },
+  {
+   "linha": 5,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 5,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 5,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "V"
+  },
+  {
+   "linha": 5,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "S"
+  },
+  {
+   "linha": 5,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "B"
+  },
+  {
+   "linha": 6,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 6,
+   "coluna": 2,
+   "tipo": "dica",
+   "texto_dica": "Grande extensão de mata",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 6,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "F"
+  },
+  {
+   "linha": 6,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "L"
+  },
+  {
+   "linha": 6,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 6,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 6,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 6,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "S"
+  },
+  {
+   "linha": 6,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "T"
+  },
+  {
+   "linha": 6,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 7,
+   "coluna": 1,
+   "tipo": "letra",
+   "letra_correta": "U"
+  },
+  {
+   "linha": 7,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 7,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "G"
+  },
+  {
+   "linha": 7,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 7,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 8,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Felino pintado da América",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 8,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 8,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "N"
+  },
+  {
+   "linha": 8,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "C"
+  },
+  {
+   "linha": 8,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 8,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "G"
+  },
+  {
+   "linha": 8,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "A"
+  },
+  {
+   "linha": 9,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "T"
+  },
+  {
+   "linha": 9,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "D"
+  },
+  {
+   "linha": 9,
+   "coluna": 6,
+   "tipo": "dica",
+   "texto_dica": "Contrário de belo",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 9,
+   "coluna": 7,
+   "tipo": "letra",
+   "letra_correta": "F"
+  },
+  {
+   "linha": 9,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 9,
+   "coluna": 9,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 9,
+   "coluna": 10,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 10,
+   "coluna": 1,
+   "tipo": "dica",
+   "texto_dica": "Personagem corajoso",
+   "seta": "horizontal"
+  },
+  {
+   "linha": 10,
+   "coluna": 2,
+   "tipo": "letra",
+   "letra_correta": "H"
+  },
+  {
+   "linha": 10,
+   "coluna": 3,
+   "tipo": "letra",
+   "letra_correta": "E"
+  },
+  {
+   "linha": 10,
+   "coluna": 4,
+   "tipo": "letra",
+   "letra_correta": "R"
+  },
+  {
+   "linha": 10,
+   "coluna": 5,
+   "tipo": "letra",
+   "letra_correta": "O"
+  },
+  {
+   "linha": 10,
+   "coluna": 6,
+   "tipo": "letra",
+   "letra_correta": "I"
+  },
+  {
+   "linha": 10,
+   "coluna": 8,
+   "tipo": "letra",
+   "letra_correta": "M"
+  }
+ ]
+}

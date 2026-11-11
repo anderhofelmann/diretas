@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Gerador de Ícones - Diretas</title>
+    <style>
+        body { font-family: Arial, sans-serif; background: #1e1e24; color: #fff; text-align: center; padding: 30px; }
+        canvas { display: block; margin: 10px auto; border-radius: 12px; }
+        button { margin: 8px; padding: 12px 24px; background: #00ffcc; color: #111; border: none;
+                 border-radius: 6px; font-size: 16px; font-weight: bold; cursor: pointer; }
+        button:hover { background: #00ddb0; }
+        h2 { color: #00ffcc; }
+        .preview { margin: 20px auto; }
+    </style>
+</head>
+<body>
+    <h2>🎨 Gerador de Ícones — Diretas</h2>
+    <p>Pré-visualização dos ícones gerados:</p>
+
+    <div class="preview">
+        <canvas id="canvas512" width="512" height="512"></canvas>
+        <p>512 × 512</p>
+        <button onclick="baixar('canvas512', 'icon-512.png')">⬇ Baixar icon-512.png</button>
+    </div>
+
+    <div class="preview">
+        <canvas id="canvas192" width="192" height="192"></canvas>
+        <p>192 × 192</p>
+        <button onclick="baixar('canvas192', 'icon-192.png')">⬇ Baixar icon-192.png</button>
+    </div>
+
+    <script>
+        // Polyfill roundRect para browsers antigos
+        if (!CanvasRenderingContext2D.prototype.roundRect) {
+            CanvasRenderingContext2D.prototype.roundRect = function(x, y, w, h, r) {
+                this.moveTo(x + r, y);
+                this.lineTo(x + w - r, y);
+                this.quadraticCurveTo(x + w, y, x + w, y + r);
+                this.lineTo(x + w, y + h - r);
+                this.quadraticCurveTo(x + w, y + h, x + w - r, y + h);
+                this.lineTo(x + r, y + h);
+                this.quadraticCurveTo(x, y + h, x, y + h - r);
+                this.lineTo(x, y + r);
+                this.quadraticCurveTo(x, y, x + r, y);
+                this.closePath();
+            };
+        }
+
+        function desenharIcone(canvas) {
+            const ctx = canvas.getContext('2d');
+            const s = canvas.width;
+
+            // ── Fundo arredondado com gradiente ──────────────────────────
+            const grad = ctx.createLinearGradient(0, 0, s, s);
+            grad.addColorStop(0, '#1e1e24');
+            grad.addColorStop(1, '#2a2a40');
+
+            const r = s * 0.12;
+            ctx.beginPath();
+            ctx.roundRect(0, 0, s, s, r);
+            ctx.fillStyle = grad;
+            ctx.fill();
+
+            // ── Mini-tabuleiro decorativo (4×4) ──────────────────────────
+            const board = [
+                [2, 1, 1, 1],
+                [1, 0, 2, 1],
+                [1, 1, 1, 0],
+                [1, 0, 1, 1],
+            ];
+            const cols    = 4;
+            const cell    = s * 0.17;
+            const gap     = s * 0.025;
+            const gridW   = cols * cell + (cols - 1) * gap;
+            const startX  = (s - gridW) / 2;
+            const startY  = s * 0.10;
+
+            for (let row = 0; row < 4; row++) {
+                for (let col = 0; col < 4; col++) {
+                    const x    = startX + col * (cell + gap);
+                    const y    = startY + row * (cell + gap);
+                    const tipo = board[row][col];
+
+                    ctx.beginPath();
+                    ctx.roundRect(x, y, cell, cell, s * 0.025);
+                    ctx.fillStyle = tipo === 0 ? '#111118' : tipo === 1 ? '#e8e8e8' : '#2a2a45';
+                    ctx.fill();
+
+                    if (tipo === 2) {
+                        ctx.fillStyle    = '#00ffcc';
+                        ctx.font         = `bold ${cell * 0.55}px Arial`;
+                        ctx.textAlign    = 'center';
+                        ctx.textBaseline = 'middle';
+                        ctx.fillText('➔', x + cell / 2, y + cell / 2);
+                    }
+                }
+            }
+
+            // ── Texto "Diretas" ───────────────────────────────────────────
+            const textY = startY + 4 * cell + 3 * gap + s * 0.06;
+            ctx.font          = `bold ${s * 0.16}px Arial`;
+            ctx.textAlign     = 'center';
+            ctx.textBaseline  = 'top';
+            ctx.shadowColor   = 'rgba(0,255,204,0.5)';
+            ctx.shadowBlur    = s * 0.04;
+            ctx.fillStyle     = '#ffffff';
+            ctx.fillText('Diretas', s / 2, textY);
+
+            // ── Linha decorativa ─────────────────────────────────────────
+            ctx.shadowBlur = 0;
+            const lineY  = textY + s * 0.22;
+            const lineW  = s * 0.55;
+            const lgLine = ctx.createLinearGradient(s/2 - lineW/2, 0, s/2 + lineW/2, 0);
+            lgLine.addColorStop(0,   'transparent');
+            lgLine.addColorStop(0.5, '#00ffcc');
+            lgLine.addColorStop(1,   'transparent');
+            ctx.strokeStyle = lgLine;
+            ctx.lineWidth   = s * 0.012;
+            ctx.beginPath();
+            ctx.moveTo(s/2 - lineW/2, lineY);
+            ctx.lineTo(s/2 + lineW/2, lineY);
+            ctx.stroke();
+
+            // ── Subtítulo "palavras cruzadas" ─────────────────────────────
+            ctx.font         = `${s * 0.065}px Arial`;
+            ctx.fillStyle    = '#aaaacc';
+            ctx.textBaseline = 'top';
+            ctx.fillText('palavras cruzadas', s / 2, lineY + s * 0.04);
+        }
+
+        function baixar(canvasId, nome) {
+            const canvas = document.getElementById(canvasId);
+            const link   = document.createElement('a');
+            link.download = nome;
+            link.href     = canvas.toDataURL('image/png');
+            link.click();
+        }
+
+        desenharIcone(document.getElementById('canvas512'));
+        desenharIcone(document.getElementById('canvas192'));
+    </script>
+</body>
+</html>

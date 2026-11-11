@@ -1,0 +1,18 @@
+{
+  "fase": 2,
+  "titulo": "Primeiros Cruzamentos",
+  "dimensoes": { "linhas": 6, "colunas": 6 },
+  "elementos": [
+    { "linha": 2, "coluna": 2, "tipo": "dica", "texto_dica": "Parte, se move", "seta": "vertical" },
+    { "linha": 2, "coluna": 4, "tipo": "dica", "texto_dica": "Ação com um livro", "seta": "vertical" },
+    { "linha": 3, "coluna": 1, "tipo": "dica", "texto_dica": "🕯️ Chama acesa", "seta": "horizontal" },
+    { "linha": 3, "coluna": 2, "tipo": "letra", "letra_correta": "V" },
+    { "linha": 3, "coluna": 3, "tipo": "letra", "letra_correta": "E" },
+    { "linha": 3, "coluna": 4, "tipo": "letra", "letra_correta": "L" },
+    { "linha": 3, "coluna": 5, "tipo": "letra", "letra_correta": "A" },
+    { "linha": 4, "coluna": 2, "tipo": "letra", "letra_correta": "A" },
+    { "linha": 4, "coluna": 4, "tipo": "letra", "letra_correta": "E" },
+    { "linha": 5, "coluna": 2, "tipo": "letra", "letra_correta": "I" },
+    { "linha": 5, "coluna": 4, "tipo": "letra", "letra_correta": "R" }
+  ]
+}

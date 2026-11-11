@@ -1,0 +1,4 @@
+usuarios/*
+!usuarios/.htaccess
+!usuarios/.gitkeep
+__pycache__/
